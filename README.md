@@ -6,4 +6,26 @@
 ### npm start
 ## 后端使用egg+mysql+squlz
 
-
+···{
+  "development": {
+    "username": "root",
+    "password": "123456",
+    "database": "campus_cloud",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "123456",
+    "database": "campus_cloud",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "123456",
+    "database": "campus_cloud",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
