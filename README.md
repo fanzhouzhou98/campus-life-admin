@@ -6,7 +6,7 @@
 ### npm start
 ## 后端使用egg+mysql+squlz
 
-···{
+···js {
   "development": {
     "username": "root",
     "password": "123456",
